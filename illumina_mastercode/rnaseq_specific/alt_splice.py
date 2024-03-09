@@ -20,6 +20,10 @@ def rmats_run(g1_bamfiles,g2_bamfiles,gtf_file,librarytype,readlength,threads):
                         --novelSS ''')
 
 
+#MAJIQ: Modeling Alternative Junction Inclusion Quantification ; https://majiq.biociphers.org/
+#Bisbee    :https://www.nature.com/articles/s41598-021-89938-2 
+#SpliceVault : https://www.nature.com/articles/s41588-022-01293-8 
+
 
 #SpliceTools ; https://github.com/flemingtonlab/SpliceTools
 
